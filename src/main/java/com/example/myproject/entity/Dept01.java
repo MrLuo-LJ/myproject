@@ -13,5 +13,5 @@ public class Dept01 {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer deptno;
     private String dname;
-    private String loc;
+    private String lolc;
 }
