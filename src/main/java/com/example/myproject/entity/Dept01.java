@@ -14,5 +14,4 @@ public class Dept01 {
     private Integer deptno;
     private String dname;
     private String loc;
-    private String kk;
 }
